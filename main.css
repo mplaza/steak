@@ -84,7 +84,7 @@ body{
 	background-color: white;
 }
 #topPost{
-	width:1500px;
+	width:1050px;
 	height:500px;
 	margin-left:50px;
 	overflow: hidden;
@@ -114,7 +114,7 @@ body{
 	width:30px;
 	position:relative;
 	top:-50px;
-	left:1450px;
+	left:1000px;
 	z-index: 20;
 }
 .seeMore1{
