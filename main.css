@@ -55,7 +55,7 @@ body{
 	height:150px;
 	width: 100%;
 	z-index: 3;
-	top:350;
+	top:350px;
 }
 #navContainer.fixed{
 	position:fixed;
