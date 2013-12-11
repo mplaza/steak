@@ -107,7 +107,7 @@ body{
 }
 .postContent{
 	font-family: 'Karla', sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 #readme1{
 	height:30px;
@@ -115,6 +115,7 @@ body{
 	position:relative;
 	top:-50px;
 	left:1520px;
+	z-index: 20;
 }
 .seeMore1{
 	height:20px;
